@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-6-project/",
+    "build": "vite build --base=/117_html-css_netkatya/",
     "preview": "vite preview"
   },
   "devDependencies": {
